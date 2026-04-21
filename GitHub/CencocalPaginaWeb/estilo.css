@@ -107,7 +107,7 @@ body {
 
 .btn-accion {
     background-color: var(--cencocal-green);
-    color: #fff;
+    color: #1a1a1a;
     padding: 12px 30px;
     text-decoration: none;
     border-radius: 5px;
